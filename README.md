@@ -1,5 +1,5 @@
 # Mycare_Doctor_Responsive_Webpage
-Create a Doctor webpage using HTML, CSS, Bootstrap, JavaScript, Fontawesome CDN.
+Create a Doctor webpage using HTML, CSS, Bootstrap, Google-Font CDN, Fontawesome CDN.
 
 
 ![Mycare_Doctor](https://user-images.githubusercontent.com/116146092/222113353-cfa327dc-a28a-4c88-87f0-8b496def9645.gif)
